@@ -3,7 +3,7 @@ name: bfirst
 namespace: com.citrix.adc.stylebooks
 version: "1.0"
 display-name: "HTTP/SSL LoadBalancing StyleBook"
-description: "This stylebook defines a typical Load Balanced Application configuration."
+description: "44123This stylebook defines a typical Load Balanced Application configuration."
 schema-version: "1.0"
 import-stylebooks: 
   - 
@@ -20,6 +20,7 @@ import-stylebooks:
     version: "1.0"
 
 parameters-default-sources:
+  - stlb::afirst
   - cmtypes::lbvserver-params
   - cmtypes::services-params
 parameters: 
