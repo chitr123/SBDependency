@@ -3,7 +3,7 @@ name: afirst
 namespace: com.citrix.adc.stylebooks
 version: "1.0"
 display-name: "branch1HTTP/SSL LoadBalancing StyleBook"
-description: "22222222q4241234This stylebook defines a typical Load Balanced Application configuration."
+description: "333322222222q4241234This stylebook defines a typical Load Balanced Application configuration."
 schema-version: "1.0"
 import-stylebooks: 
   - 
