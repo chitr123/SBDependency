@@ -20,7 +20,7 @@ import-stylebooks:
     version: "1.0"
 
 parameters-default-sources:
-  - stlb::master_branch_sb_1
+  - stlb::branch1_sb_1
   - cmtypes::lbvserver-params
   - cmtypes::services-params
 parameters: 
